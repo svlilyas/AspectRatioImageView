@@ -78,4 +78,6 @@ dependencies {
         <td>all corners</td>
     </tr>
 </table>
-![This is an image](/app/src/main/res/drawable/img_2560x1440_16_9.png)
+
+## Example
+![16:9 2560X1440 Image](/assets/aspect_ratio_example1.jpg)
