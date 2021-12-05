@@ -41,5 +41,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation project(':aspectratioimageview')
-    //implementation 'com.github.svlilyas:AspectRatioImageView:1.0.1'
+    //implementation 'com.github.svlilyas:AspectRatioImageView:1.0.2'
 }
