@@ -80,4 +80,4 @@ dependencies {
 </table>
 
 ## Example
-![16:9 2560X1440 Image](/assets/aspect_ratio_example1.jpg)
+![16:9 2560X1440 Image](/assets/example1.png)
