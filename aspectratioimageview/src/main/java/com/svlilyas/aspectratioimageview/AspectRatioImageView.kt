@@ -1,4 +1,4 @@
-package com.ilyassavli.aspectratioimageview
+package com.svlilyas.aspectratioimageview
 
 import android.content.Context
 import android.graphics.Canvas

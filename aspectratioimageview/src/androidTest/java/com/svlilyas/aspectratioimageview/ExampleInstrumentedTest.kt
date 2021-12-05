@@ -1,4 +1,4 @@
-package com.ilyassavli.aspectratioimageview
+package com.svlilyas.aspectratioimageview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ilyassavli.aspectratioimageview.test", appContext.packageName)
+        assertEquals("com.svlilyas.aspectratioimageview.test", appContext.packageName)
     }
 }
