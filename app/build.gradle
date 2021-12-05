@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.ilyassavli.aspectratioimageview"
+        applicationId 'com.svlilyas.aspectratioimageview'
         minSdk 23
         targetSdk 31
         versionCode 1
