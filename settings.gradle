@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "ExampleAspectRatioImageView"
+rootProject.name = "AspectRatioImageView"
 include ':app'
 include ':aspectratioimageview'

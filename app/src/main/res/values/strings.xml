@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">ExampleAspectRatioImageView</string>
+    <string name="app_name">AspectRatioImageView</string>
+    <string name="left_text">Left Text</string>
+    <string name="right_text">Right Text</string>
+    <string name="bottom_text">Bottom Text</string>
 </resources>
