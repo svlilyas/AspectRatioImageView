@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AspectRatioImageView">
+        <attr name="ari_ratio" format="float" />
+        <attr name="radius" format="dimension" />
+
+        <attr name="corner">
+            <flag name="topLeft" value="1" />
+            <flag name="topRight" value="2" />
+            <flag name="bottomRight" value="3" />
+            <flag name="bottomLeft" value="4" />
+            <flag name="left" value="5" />
+            <flag name="right" value="6" />
+            <flag name="top" value="7" />
+            <flag name="bottom" value="8" />
+        </attr>
+    </declare-styleable>
+</resources>
