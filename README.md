@@ -45,7 +45,9 @@ dependencies {
     </tr>
     <tr>
         <td><b>ari_ratio</b></td>
-        <td>Should define float value of <b>height/width</b> which for 16:9 aspect ratio is <b>9/16</b> = <b>5.5625</b></td>
+        <td>Should define float value of <b>height/width</b> which for<br/> 16:9 aspect ratio is <b>9/16</b> = <b>5.5625</b><br/>
+        Should define one of <b>width</b> or <b>height</b> <b>0dp</b> and other<br/> <b>match_parent</b>, <b>wrap_content</b> or <b>exact value</b> like <b>120dp</b>.
+       </td>
         <td>-</td>
     </tr>
    <tr>
