@@ -1,0 +1,2 @@
+# ExampleAspectRatioImageView
+AspectRatio ImageView
