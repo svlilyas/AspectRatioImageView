@@ -35,4 +35,45 @@ dependencies {
         app:layout_constraintTop_toTopOf="parent" />
 ```
 
+## Attributes
+
+<table>
+    <tr>
+        <th>Attribute</th>
+        <th>Description</th>
+        <th>Default</th>
+    </tr>
+    <tr>
+        <td><b>ari_ratio</b></td>
+        <td>Should define float value of <b>height/width</b> which for 16:9 aspect ratio is <b>9/16</b> = <b>5.5625</b></td>
+        <td>-</td>
+    </tr>
+   <tr>
+        <td><b>radius</b></td>
+        <td><b>DP</b> value for corner radius</td>
+        <td><b>0dp</b></td>
+    </tr>
+    <tr>
+        <td><b>corners</b></td>
+        <td>There are <b>8 types</b> of different corners<br><br>
+            <b>topLeft</b><br>
+             makes top left corner defining radius value.<br>
+            <b>topRight</b><br>
+             makes top right corner defining radius value.<br>
+           <b>bottomLeft</b><br>
+             makes bottom left corner defining radius value.<br>
+           <b>bottomRight</b><br>
+             makes bottom right corner defining radius value.<br>
+           <b>left</b><br>
+             makes left corners defining radius value.<br>
+           <b>right</b><br>
+             makes right corners defining radius value.<br>
+           <b>top</b><br>
+             makes top corners defining radius value.<br>
+           <b>bottom</b><br>
+             makes bottom corners defining radius value.<br>
+        </td>
+        <td>all corners</td>
+    </tr>
+</table>
 ![This is an image](/app/src/main/res/drawable/img_2560x1440_16_9.png)
