@@ -21,5 +21,18 @@ dependencies {
    implementation 'com.github.svlilyas:AspectRatioImageView:1.0'
 }
 ```
+## Using
 
-![This is an image](/assets/images/electrocat.png)
+```
+<com.svlilyas.aspectratioimageview.AspectRatioImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/img_2560x1440_16_9"
+        app:ari_ratio="0.5625"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+```
+
+![This is an image](/app/src/main/res/drawable/img_2560x1440_16_9.png)
