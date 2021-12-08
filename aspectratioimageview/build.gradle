@@ -43,7 +43,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.svlilyas'
                 artifactId = 'aspectratioimageview'
-                version = '1.0.7'
+                version = '1.0.8'
             }
         }
     }
