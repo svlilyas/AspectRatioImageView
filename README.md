@@ -18,7 +18,7 @@ allprojects {
 
 ```
 dependencies {
-   implementation 'com.github.svlilyas:AspectRatioImageView:1.0'
+   implementation 'com.github.svlilyas:AspectRatioImageView:1.1.2'
 }
 ```
 ## Using
